@@ -284,4 +284,8 @@ footer .credit {
   html {
     font-size: 55%;
   }
+  
+  .container {
+    grid-template-columns: 1fr; /* one column */ /* nine rows */
+  }
 }
